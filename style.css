@@ -1,0 +1,60 @@
+*{
+    font-family: Amatic SC , serif ;
+    color: white;
+}
+
+    body{
+        background-image: url(./download.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    #space{
+        display: inline-block;
+        margin-right: 700px;
+        margin-top: 0px;
+        margin-left: 50px;
+        font-size: 30px;
+    }
+
+#head{
+    display: inline-block;
+    /* background-color: rgba(0,0,0.3); */
+}
+a{
+    margin-right: 50px;
+    text-decoration: none;
+}
+#naked{
+    margin-bottom: 10px;
+}
+#learnmore{
+    margin-right: auto;
+
+}
+.getstarted{
+    background-color: rgba(255,255,255,.3);
+    border: none;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    font-weight:600;
+}
+#learnmore{
+    background-color: transparent;
+    border: 2px solid white;
+    margin-left: 5px;
+    margin-top: 8px;
+ }
+.beech{
+    margin: 0px;
+    padding: 0px;
+
+}
+#night{
+    font-size: 40px;
+    height: 300px;
+    width: 260px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
